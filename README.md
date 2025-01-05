@@ -25,11 +25,16 @@ Cookie：输入一次后会保存在./Cookie/Cookie.txt文件中，下次打开�
 
 ```
 #### 功能
-![PixPin_2024-11-15_23-26-58](https://github.com/user-attachments/assets/bada3756-1e22-4bed-9af9-519767c0154c)
-
-![PixPin_2024-11-15_23-28-56](https://github.com/user-attachments/assets/10a17380-c930-401e-bb43-3f1d8575b33c)
-
-![PixPin_2024-11-16_00-14-48](https://github.com/user-attachments/assets/efc579de-0a7e-4cf6-9096-4d36e551c156)
+主界面
+![PixPin_2025-01-04_18-17-11](https://github.com/user-attachments/assets/fe438303-4bf0-445a-8e7f-e049e0419adf)
+列表下载
+![PixPin_2025-01-04_18-20-18](https://github.com/user-attachments/assets/82427ece-893a-4245-b0d5-c7b11d6054e0)
+合集下载
+![PixPin_2025-01-04_18-24-05](https://github.com/user-attachments/assets/2993c413-ff5e-4e0d-b2c5-71d82964e63f)
+本地播放库
+![PixPin_2025-01-04_18-26-20](https://github.com/user-attachments/assets/641abe35-c024-4620-87f1-11232fca5c87)
+配置
+![PixPin_2025-01-04_18-27-30](https://github.com/user-attachments/assets/0c1e3968-5b0b-4f4b-90ef-43cd95e95fb8)
 
 
 
