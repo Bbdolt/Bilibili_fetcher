@@ -1,0 +1,6 @@
+﻿-- logger module started --
+mp4: Fragment sequence discontinuity detected 1 != 0
+﻿-- logger module started --
+mp4: Fragment sequence discontinuity detected 1 != 0
+﻿-- logger module started --
+mp4: Fragment sequence discontinuity detected 1 != 0
